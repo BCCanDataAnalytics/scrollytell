@@ -17,7 +17,7 @@ scrollytell is used to generate scrolly tell presentations in R shiny.
 A development version of scrolly tell can be installed from github:
 
 ``` r
-devtools::install_github("statistiekcbs/scrollytell")
+devtools::install_github("BCCanDataAnalytics/scrollytell")
 ```
 
 ## Example
